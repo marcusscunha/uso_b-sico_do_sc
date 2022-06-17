@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 			double x;
 			x=sc.nextDouble();
-			System.out.printf("voce digitou: %.9f%n",+x);
+			System.out.printf("voce digitou: %.9f%n",x);
 
 			sc.close();
 		}
